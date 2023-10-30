@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NewXdOnTop
-- 👀 I’m interested in Spigot Java
+- 👀 I’m interested in Spigot Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Hypixel Skyblock Remake
 - 📫 How to reach me ...
